@@ -1,0 +1,55 @@
+.titulo {
+    color: #01e2aa;
+    font-weight: bold;
+}
+.box-fundo{
+    background: #005fd1;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: -160px;
+    z-index: -1;
+}
+.btn-padrao{
+    width: 100%;
+    margin-top: 30px;
+    color: white!important;
+    background: #0056ce;
+    border-color: #0056ce;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 15px 0;
+    font-size: 20px;
+}
+section{
+    padding: 60px 0;
+}
+.bg-cinza-claro{
+    background: #f6f6f6;
+}
+.container{
+    width: 1000px;
+}
+.titulo-oque{
+    font-size: 20px;
+    font-weight: bold;
+}
+.preco{
+    font-weight: bold;
+    font-size: 26px;
+}
+.oque-encontrara i{
+        background: #01e2aa;
+    color: white;
+    width: 70px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-size: 30px;    
+}
+.seja-diamante{
+    padding: 0px;
+}
